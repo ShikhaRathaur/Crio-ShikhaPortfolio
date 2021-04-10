@@ -28,7 +28,7 @@ export const Intro = () => {
               Hire me
             </Button>{' '}
             <a href={cvLink} target="_blank" rel="noreferrer">
-              <Button className="view-cv">View CV</Button>
+              <Button className="view-cv">View Resume</Button>
             </a>
           </div>
           <div className="social">
